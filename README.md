@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce?style=flat-square&color=gold" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-E-Commerce?style=flat-square&color=gold" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-E-Commerce?style=flat-square&color=blue" alt="Last Commit" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,55 +56,55 @@ Whether you are launching a DTC brand, scaling a global multi-store enterprise, 
 
 E-commerce boasts one of the richest open-source developer communities. Below are top active self-hosted and headless open-source projects, **sorted by GitHub star counts (descending)**:
 
-1. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+1. **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
    Fast-growing open-source headless commerce platform built with Node.js/TypeScript. Highly modular, developer-friendly, and popular for composable storefronts.
 
-2. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+2. **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
    Laravel-based open-source e-commerce platform supporting multi-vendor marketplaces, B2B portals, headless setups, and modern PHP development.
 
-3. **[Saleor](https://github.com/saleor/saleor)** [![GitHub Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+3. **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
    GraphQL-first, open-source headless commerce engine (Python/Django) designed for high-performance, multi-channel, and composable architectures.
 
-4. **[Spree](https://github.com/spree/spree)** [![GitHub Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+4. **[Spree](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
    Ruby on Rails-based open-source e-commerce platform known for flexibility, modular storefronts, and developer control.
 
-5. **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** [![GitHub Stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)  
+5. **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** [![GitHub_Stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)  
    Event-driven, real-time commerce engine built with Node.js and GraphQL for modern microservice architectures.
 
-6. **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub Stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
+6. **[Magento Open Source](https://github.com/magento/magento2)** [![GitHub_Stars](https://img.shields.io/github/stars/magento/magento2?style=social&color=white)](https://github.com/magento/magento2/stargazers)  
    Feature-rich open-source e-commerce platform offering deep customization, extensive extension ecosystem, and foundation for enterprise Adobe Commerce.
 
-7. **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
+7. **[WooCommerce](https://github.com/woocommerce/woocommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
    The most widely used open-source e-commerce plugin for WordPress, powering millions of stores with a massive plugin ecosystem.
 
-8. **[nopCommerce](https://github.com/nopSolutions/nopCommerce)** [![GitHub Stars](https://img.shields.io/github/stars/nopSolutions/nopCommerce?style=social&color=white)](https://github.com/nopSolutions/nopCommerce/stargazers)  
+8. **[nopCommerce](https://github.com/nopSolutions/nopCommerce)** [![GitHub_Stars](https://img.shields.io/github/stars/nopSolutions/nopCommerce?style=social&color=white)](https://github.com/nopSolutions/nopCommerce/stargazers)  
    Popular open-source e-commerce shopping cart built on ASP.NET Core with multi-store and multi-vendor support.
 
-9. **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** [![GitHub Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)  
+9. **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** [![GitHub_Stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)  
    Mature open-source e-commerce solution with a large international community, extensive modules, and multi-language/multi-currency capabilities.
 
-10. **[Aimeos Laravel](https://github.com/aimeos/aimeos-laravel)** [![GitHub Stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)  
+10. **[Aimeos Laravel](https://github.com/aimeos/aimeos-laravel)** [![GitHub_Stars](https://img.shields.io/github/stars/aimeos/aimeos-laravel?style=social&color=white)](https://github.com/aimeos/aimeos-laravel/stargazers)  
     Ultra-fast open-source PHP e-commerce framework and Laravel package supporting multi-vendor, multi-warehouse, and gigabyte-scale catalogs.
 
-11. **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)  
+11. **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub_Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)  
     Flexible, Symfony-based open-source e-commerce framework emphasizing clean code architecture, B2B features, and extensibility.
 
-12. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)  
+12. **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![GitHub_Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers)  
     Open-source headless commerce platform built with TypeScript, NestJS, and GraphQL, suitable for D2C, B2B, and omnichannel applications.
 
-13. **[OpenCart](https://github.com/opencart/opencart)** [![GitHub Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)  
+13. **[OpenCart](https://github.com/opencart/opencart)** [![GitHub_Stars](https://img.shields.io/github/stars/opencart/opencart?style=social&color=white)](https://github.com/opencart/opencart/stargazers)  
     Lightweight, turn-key open-source PHP shopping cart platform with multi-store management and simple store setup.
 
-14. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+14. **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
     Community-driven Ruby on Rails open-source e-commerce platform designed for complex customization and high transaction volume.
 
-15. **[Shopizer](https://github.com/shopizer-ecommerce/shopizer)** [![GitHub Stars](https://img.shields.io/github/stars/shopizer-ecommerce/shopizer?style=social&color=white)](https://github.com/shopizer-ecommerce/shopizer/stargazers)  
+15. **[Shopizer](https://github.com/shopizer-ecommerce/shopizer)** [![GitHub_Stars](https://img.shields.io/github/stars/shopizer-ecommerce/shopizer?style=social&color=white)](https://github.com/shopizer-ecommerce/shopizer/stargazers)  
     Java Spring Boot open-source headless e-commerce software offering REST APIs and admin control panel.
 
-16. **[Lunar PHP](https://github.com/lunarphp/lunar)** [![GitHub Stars](https://img.shields.io/github/stars/lunarphp/lunar?style=social&color=white)](https://github.com/lunarphp/lunar/stargazers)  
+16. **[Lunar PHP](https://github.com/lunarphp/lunar)** [![GitHub_Stars](https://img.shields.io/github/stars/lunarphp/lunar?style=social&color=white)](https://github.com/lunarphp/lunar/stargazers)  
     Modern, open-source headless e-commerce package for Laravel, enabling custom storefront development.
 
-17. **[Shopware Community Edition](https://github.com/shopware/shopware)** [![GitHub Stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)  
+17. **[Shopware Community Edition](https://github.com/shopware/shopware)** [![GitHub_Stars](https://img.shields.io/github/stars/shopware/shopware?style=social&color=white)](https://github.com/shopware/shopware/stargazers)  
     Open-source edition of Shopware, a modern PHP/Symfony commerce platform popular in Europe with strong theming and extension APIs.
 
 ---
