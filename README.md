@@ -44,57 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-- **[Shopify](https://www.shopify.com/)**  
+| Platform | Description | Pricing | Free Tier / Trial Limits |
+| --- | --- | --- | --- |
+| **[Shopify](https://www.shopify.com/)** | Leading hosted e-commerce platform known for ease of use, extensive app ecosystem, and strong DTC/conversion focus. | Starts at $39/mo ($29/mo billed annually for Basic tier; $5/mo Starter plan) | 3-day free trial (no credit card required; store checkout disabled until paid plan selection) |
+| **[BigCommerce](https://www.bigcommerce.com/)** | Open-SaaS e-commerce platform popular for mid-market and enterprise merchants seeking flexibility without self-hosting overhead. | Starts at $39/mo ($29/mo billed annually for Core tier up to $50k annual GMV) | 15-day free trial (no credit card required; custom domains & certain extensions restricted until upgrade) |
+| **[Adobe Commerce (Magento)](https://business.adobe.com/products/magento/magento-commerce.html)** | Enterprise commerce platform offering deep customization, B2B capabilities, and complex catalog support. | Starts at ~$22,000/year (~$1,833/mo based on annual GMV/revenue) | No self-service free trial (sales-assisted demo sandbox available; Magento Open Source is free self-hosted) |
+| **[Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)** | Enterprise commerce solution tightly integrated with the Salesforce ecosystem for B2C and B2B experiences. | Starts at 1% of GMV (minimum ~$50,000/year contract depending on scale and edition) | No self-service free trial (30-day sales-assisted sandbox environment available upon request) |
+| **[VTEX](https://vtex.com/)** | Cloud commerce platform strong in Latin America and global markets, supporting marketplaces and composable architectures. | Starts at ~$250/mo (base platform fee plus variable revenue share of ~1–3% GMV) | No self-service free trial (sales-assisted demo environment available upon request) |
+| **[commercetools](https://commercetools.com/)** | Leading composable / MACH commerce platform for large enterprises needing API-first, headless commerce at scale. | Starts at ~$40,000/year (~$3,333/mo base fee scaled by order volume and API usage) | 60-day free trial (full API access & Merchant Center; restricted to non-production dev environments) |
+| **[Ecwid](https://www.ecwid.com/)** | Lightweight, easy-to-add e-commerce solution often embedded into existing websites and social channels. | Free forever tier; paid plans start at $35/mo ($29/mo billed annually for Venture plan) | Free forever plan limited to 10 products (or 5 via partner apps), basic storefront, 0% platform transaction fee |
+| **[Shopware (Cloud / commercial editions)](https://www.shopware.com/)** | Flexible commerce platform with strong European presence; commercial cloud offerings built on an open core. | Starts at €600/mo (for Cloud Rise edition) | 14-day free trial for Cloud Rise plan (Community Edition is free self-hosted) |
 
-  Leading hosted e-commerce platform known for ease of use, extensive app ecosystem, and strong DTC/conversion focus (including Shopify Plus for enterprise).
-
-
-
-- **[BigCommerce](https://www.bigcommerce.com/)**  
-
-  Open-SaaS e-commerce platform popular for mid-market and enterprise merchants seeking flexibility without full self-hosting overhead.
-
-
-
-- **[Adobe Commerce (Magento)](https://business.adobe.com/products/magento/magento-commerce.html)**  
-
-  Enterprise commerce platform (with open-source Magento roots) offering deep customization, B2B capabilities, and complex catalog support.
-
-
-
-- **[Salesforce Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/overview/)**  
-
-  Enterprise commerce solution tightly integrated with the Salesforce ecosystem for B2C and B2B experiences.
-
-
-
-- **[VTEX](https://vtex.com/)**  
-
-  Cloud commerce platform strong in Latin America and increasingly global, supporting marketplaces and composable architectures.
-
-
-
-- **[commercetools](https://commercetools.com/)**  
-
-  Leading composable / MACH commerce platform for large enterprises that want API-first, headless commerce at scale.
-
-
-
-- **[Ecwid](https://www.ecwid.com/)**  
-
-  Lightweight, easy-to-add e-commerce solution often embedded into existing websites and social channels.
-
-
-
-- **[Shopware (Cloud / commercial editions)](https://www.shopware.com/)**  
-
-  Flexible commerce platform with strong European presence; commercial cloud and enterprise offerings built on an open core.
-
-
-
-- **[Other hosted commerce platforms](https://www.shopify.com/)**  
-
-  Additional SaaS and enterprise solutions covering marketplaces, subscriptions, and vertical-specific commerce needs.
+*Note: Additional SaaS and enterprise solutions cover marketplaces, subscriptions, and vertical-specific commerce needs.*
 
 
 
