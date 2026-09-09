@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <style>
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.4; transform: scale(1); }
+        50% { opacity: 0.8; transform: scale(1.08); }
+      }
+      @keyframes floatNode {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-12px); }
+      }
+      @keyframes dashLine {
+        to { stroke-dashoffset: -40; }
+      }
+      .floating-node { animation: floatNode 4s ease-in-out infinite; }
+      .floating-node-delayed { animation: floatNode 4s ease-in-out 2s infinite; }
+      .glowing-orb { animation: pulseGlow 6s ease-in-out infinite; transform-origin: center; }
+      .animated-dash { stroke-dasharray: 8 6; animation: dashLine 3s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bgGrad)" rx="16" />
+
+  <g opacity="0.07" stroke="#ffffff" stroke-width="1">
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" />
+    </pattern>
+    <rect width="1200" height="400" fill="url(#grid)" />
+  </g>
+
+  <circle cx="200" cy="100" r="180" fill="url(#glowGrad)" class="glowing-orb" />
+  <circle cx="1000" cy="300" r="220" fill="url(#glowGrad)" class="glowing-orb" style="animation-delay: -3s;" />
+
+  <path d="M 150 200 Q 300 120 600 200 T 1050 200" fill="none" stroke="url(#accentGrad)" stroke-width="2" opacity="0.4" class="animated-dash" />
+  <path d="M 200 260 Q 450 320 750 240 T 1000 140" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.3" class="animated-dash" style="animation-duration: 5s;" />
+
+  <g transform="translate(600, 185)" text-anchor="middle">
+    <rect x="-110" y="-125" width="220" height="32" rx="16" fill="#1e293b" stroke="#475569" stroke-width="1" />
+    <text x="0" y="-104" fill="#a855f7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5">CURATED ECOSYSTEM</text>
+
+    <text x="0" y="-35" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5" filter="url(#glow)">Awesome E-Commerce</text>
+    <text x="0" y="15" fill="url(#accentGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700">SaaS Platforms &amp; Open-Source Projects</text>
+
+    <text x="0" y="55" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="400">Headless Commerce • Online Stores • Marketplaces • Omnichannel Solutions</text>
+  </g>
+
+  <g class="floating-node">
+    <circle cx="140" cy="130" r="28" fill="#1e293b" stroke="#6366f1" stroke-width="2" />
+    <text x="140" y="136" fill="#ffffff" font-size="18" text-anchor="middle">🛒</text>
+  </g>
+  <g class="floating-node-delayed">
+    <circle cx="1060" cy="120" r="28" fill="#1e293b" stroke="#ec4899" stroke-width="2" />
+    <text x="1060" y="126" fill="#ffffff" font-size="18" text-anchor="middle">⚡</text>
+  </g>
+  <g class="floating-node">
+    <circle cx="1000" cy="280" r="26" fill="#1e293b" stroke="#38bdf8" stroke-width="2" />
+    <text x="1000" y="286" fill="#ffffff" font-size="16" text-anchor="middle">📦</text>
+  </g>
+  <g class="floating-node-delayed">
+    <circle cx="180" cy="290" r="26" fill="#1e293b" stroke="#a855f7" stroke-width="2" />
+    <text x="180" y="296" fill="#ffffff" font-size="16" text-anchor="middle">💳</text>
+  </g>
+</svg>
